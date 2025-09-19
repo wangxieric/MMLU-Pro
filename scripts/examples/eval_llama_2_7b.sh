@@ -2,7 +2,7 @@
 
 save_dir="eval_results/"
 global_record_file="eval_results/eval_record_collection.csv"
-model="meta-llama/Llama-2-7b-hf"
+model="meta-llama/Meta-Llama-3-8B"
 selected_subjects="all"
 gpu_util=0.8
 
